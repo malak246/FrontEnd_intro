@@ -44,7 +44,6 @@ button{
 }
 .buttnBar:active{
 background-color: aqua;
-
 }
 *{
     padding: 0;
@@ -53,12 +52,6 @@ background-color: aqua;
 }
 .footer{
     background-color: #111;
-    margin-top: 10%;
-    bottom: 0%;
-    width:100%;
-    position: fixed;
-    padding: 10px;
-    height: 30%;
 }
 .footer-container{
     width: 100%;
@@ -105,6 +98,6 @@ transition: 0.5s;
     transition: 0.5s;
 
 }
-.btn:focus{
-background-color: aqua;
-}
+.btn{
+    background-color: aqua;
+    }
