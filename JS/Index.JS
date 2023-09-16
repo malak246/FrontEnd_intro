@@ -1,0 +1,1 @@
+var task1=document.getElementsByClassName('sumation')[0]

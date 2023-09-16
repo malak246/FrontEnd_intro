@@ -58,7 +58,7 @@ background-color: aqua;
     width:100%;
     position: fixed;
     padding: 10px;
-    height: 30%;
+    height: 28.5%;
 }
 .footer-container{
     width: 100%;
@@ -107,4 +107,21 @@ transition: 0.5s;
 }
 .btn:focus{
 background-color: aqua;
+}
+.form{
+    margin-top: 25px;
+
+}
+.backgroundPage{
+    background-color: lightgoldenrodyellow;
+}
+h6{
+    font-family: 'Pacifico', cursive;
+    font-size: 40px;
+       
+}
+.malak{
+ position:relative;   
+ bottom: 150px;   
+ left: 10%;
 }
